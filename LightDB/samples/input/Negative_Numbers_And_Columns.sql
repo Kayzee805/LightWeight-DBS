@@ -1,0 +1,1 @@
+SELECT E.student_id FROM Enrollments E WHERE E.student_id>-100 AND -200< E.course_id

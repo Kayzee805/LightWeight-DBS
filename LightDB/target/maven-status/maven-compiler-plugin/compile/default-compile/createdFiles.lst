@@ -1,0 +1,15 @@
+ed\inf\adbs\lightdb\LightDB.class
+ed\inf\adbs\lightdb\Catalog\Catalog.class
+ed\inf\adbs\lightdb\Utils\MyExpressionDeParser.class
+ed\inf\adbs\lightdb\operators\SortOperator$1.class
+ed\inf\adbs\lightdb\operators\Operator.class
+ed\inf\adbs\lightdb\operators\SortOperator.class
+ed\inf\adbs\lightdb\operators\JoinOperator.class
+ed\inf\adbs\lightdb\operators\SelectOperator.class
+ed\inf\adbs\lightdb\Catalog\Attributes.class
+ed\inf\adbs\lightdb\Interpreter.class
+ed\inf\adbs\lightdb\Tuple\Tuple.class
+ed\inf\adbs\lightdb\operators\ProjectOperator.class
+ed\inf\adbs\lightdb\operators\DuplicateEliminationOperator.class
+ed\inf\adbs\lightdb\operators\ScanOperator.class
+ed\inf\adbs\lightdb\Utils\MyExpressionVisitor.class

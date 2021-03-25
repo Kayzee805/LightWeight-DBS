@@ -1,0 +1,1 @@
+SELECT N1.b,N2.b FROM Negatives N1, Negatives N2 WHERE N1.a<0 AND N2.a>-5 AND N1.a>N2.a AND N1.b!=N2.b ORDER BY N1.b;

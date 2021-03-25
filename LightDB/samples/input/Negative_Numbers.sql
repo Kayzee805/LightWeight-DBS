@@ -1,0 +1,1 @@
+SELECT Distinct S1.A FROM Sailors S1, Sailors S2 WHERE -1>-2

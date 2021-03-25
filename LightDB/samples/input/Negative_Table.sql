@@ -1,0 +1,1 @@
+SELECT * FROM Negatives N WHERE N.a<=0;

@@ -1,0 +1,1 @@
+SELECT R.H,B.E FROM Reserves R, Boats B WHERE B.D=R.H AND R.G=B.E ORDER BY R.H,B.E

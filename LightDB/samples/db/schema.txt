@@ -1,0 +1,11 @@
+Sailors A B C
+Boats D E F
+Reserves G H
+Courses id level professor_id capacity
+Students id year gpa
+Professors id age
+Enrollments student_id course_id
+SmallOne a1 b1
+SmallTwo a2 b2
+NullTable c1 c2 c3 c4 c5
+Negatives a b
