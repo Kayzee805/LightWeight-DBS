@@ -42,8 +42,8 @@ public class allTests {
                 "OrderBy_withJoin1",
                 "OrderBy_WithJoin2",
                 "OrderBy_nullRelation",
-                "Distinct_withoutOrderBy1", // this might falsely fail if you implemented your "Distinct without Order By" differently
-                "Distinct_withoutOrderBy2", // this might falsely fail if you implemented your "Distinct without Order By" differently
+                "Distinct_withoutOrderBy1",
+                "Distinct_withoutOrderBy2", 
                 "Distinct_withOrderBy1",
                 "Distinct_emptyRelation",
                 "Distinct_withAlias1",
